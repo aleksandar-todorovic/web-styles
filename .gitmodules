@@ -1,0 +1,4 @@
+[submodule "web-styles"]
+	path = assets
+	url = https://github.com/elementary/web-styles.git
+	branch = master
