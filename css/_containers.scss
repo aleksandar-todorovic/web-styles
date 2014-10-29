@@ -5,3 +5,8 @@
 .title-container {
     text-align: center;
 }
+
+.input-container input[type='radio'],
+.input-container input[type='checkbox'] {
+    vertical-align: middle;
+}
